@@ -1,0 +1,10 @@
+build/
+out/
+SimOutput/
+*.bin
+*.meta.txt
+*.dll
+*.obj
+*.pdb
+__pycache__/
+*.pyc
